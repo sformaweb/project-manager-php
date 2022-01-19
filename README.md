@@ -4,7 +4,7 @@
 
 * Primeiro, creamos o cartafol do proxecto ao que chamamos *management-app-php*. 
 
-* Creamos a BBDD dende phpMyadmin manualmente. Abrimos o menú SQL e copiamos o código deste repositorio: https://github.com/phpcontrols/phpgrid-project-management/tree/master/db
+* Creamos a BBDD dende phpMyadmin manualmente. Abrimos o menú SQL e copiamos o código deste repositorio para crear as táboas: https://github.com/phpcontrols/phpgrid-project-management/tree/master/db
 
 * Para cambiar os estilos das táboas, hai que modificar o arquivo ui.jqgrid.css dentro de phpGrid.
 
