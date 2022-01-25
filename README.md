@@ -20,13 +20,13 @@
 
 * Creamos un arquivos php para cada caso (para o inicio de sesión como manager e como empregado) e outro para o logout.
 
-* No arquivo index.php enlázase aos distintos inicios de sesión como manager e empregado respectivamente. Nestes arquivos de login asignase usuario e contrasinal para cada un
+* No arquivo index.php enlázase aos distintos inicios de sesión como manager e empregado respectivamente. Nestes arquivos de login asignase usuario e contrasinal para cada un:
 
   * Manager: manager, 1234
   * Empregado: employee, 1234
 
-  Tamén se debe enlazar a respectiva páxina á que debe redirixir cada unha cando se inicia sesión (clients.php e tasks.php)
+  Tamén se debe enlazar a respectiva páxina á que debe redirixir cada unha cando se inicia sesión (clients.php e tasks.php).
 
-* Engádese na parte superior das páxinas de clients.php e tasks.php o código que usamos en sesiones1-principal.php no proxecto inicio-sesion e engádese unha ligazón na palabra "salir" ao arquivo de sesiones1-logout.php
+* Engádese na parte superior das páxinas de clients.php e tasks.php o código que usamos en sesiones1-principal.php no proxecto inicio-sesion e engádese unha ligazón na palabra "salir" ao arquivo de sesiones1-logout.php.
 
-* No arquivo de logout engádese a ligazón ao index.php
+* No arquivo de logout engádese a ligazón ao index.php.
