@@ -39,7 +39,7 @@
 <a href="sesiones1-login.php" target="_new">Iniciar sesión como xestor</a> | <a href="sesiones1-login-employee.php" target="_new">Iniciar sesión como empregado</a>
 </div>
 
-<div class="footer"><strong>Build-From-Scratch Series</strong> | phpGrid &copy; <?php echo date('Y'); ?>.</div>
+<div class="footer"><strong>Sara| Formaweb IV</strong> | phpGrid &copy; <?php echo date('Y'); ?>.</div>
 
 </body>
 </html>
