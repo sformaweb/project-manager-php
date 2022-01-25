@@ -36,7 +36,7 @@
 <div class="centered">
 <h1>Aplicación de Xestión de Proxectos</h1>
 
-<a href="manager/clients.php" target="_new">Iniciar sesión como xestor</a> | <a href="employee/tasks.php" target="_new">Iniciar sesión como empregado</a>
+<a href="sesiones1-login.php" target="_new">Iniciar sesión como xestor</a> | <a href="sesiones1-login-employee.php" target="_new">Iniciar sesión como empregado</a>
 </div>
 
 <div class="footer"><strong>Build-From-Scratch Series</strong> | phpGrid &copy; <?php echo date('Y'); ?>.</div>
