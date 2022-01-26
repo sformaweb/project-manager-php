@@ -13,7 +13,6 @@
 
 
 
-
 ### Implementación dun _login_
 
 * Creamos unha pola chamada "login" en github para traballar sobre unha bifurcación do proxecto.
@@ -27,6 +26,6 @@
 
   Tamén se debe enlazar a respectiva páxina á que debe redirixir cada unha cando se inicia sesión (clients.php e tasks.php).
 
-* Engádese na parte superior das páxinas de clients.php e tasks.php o código que usamos en sesiones1-principal.php no proxecto inicio-sesion e engádese unha ligazón na palabra "salir" ao arquivo de sesiones1-logout.php.
+* Engádese na parte superior das páxinas de clients.php e tasks.php o código que usamos en sesiones1-principal.php no proxecto inicio-sesion e engádese unha ligazón na palabra "salir" ao arquivo de sesiones1-logout.php, que permitirá a redirección a esa páxina para facer o borrado de cookies e o conseguinte peche da sesión.
 
-* No arquivo de logout engádese a ligazón ao index.php.
+* No arquivo de logout engádese a ligazón ao index.php, para que ao pechar a sesión nos devolva á páxina de inicio.
