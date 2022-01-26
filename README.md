@@ -29,3 +29,8 @@
 * Engádese na parte superior das páxinas de clients.php e tasks.php o código que usamos en sesiones1-principal.php no proxecto inicio-sesion e engádese unha ligazón na palabra "salir" ao arquivo de sesiones1-logout.php, que permitirá a redirección a esa páxina para facer o borrado de cookies e o conseguinte peche da sesión.
 
 * No arquivo de logout engádese a ligazón ao index.php, para que ao pechar a sesión nos devolva á páxina de inicio.
+
+### Conexión coa BBDD
+
+* Para conectarnos coa base de datos "empresa", debemos engadir o código que permite dita conexión no arquivo sesiones1-principal.php, onde se indica o nome da bbdd, o usuario, a contrasinal e os datos que solicitamos á bbdd.
+* A continuación, en sesiones1-login.php creamos un novo usuario que permita acceder aos datos requeridos á bbdd. Faríase copiando a función "comprobar_usuario" e cambiando a _location_ a "sesiones1-principal.php", ademáis do usuario (sara, 1234) e o nome da función (comprobar_usuario2).
